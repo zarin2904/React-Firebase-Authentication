@@ -67,3 +67,4 @@ React 19, Vite, React Router v7, Firebase Authentication
 
 Firebase web config is not a secret, but never commit real passwords or
 service-account keys to GitHub.
+# React-Firebase-Authentication
